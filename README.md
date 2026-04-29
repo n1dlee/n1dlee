@@ -1,6 +1,6 @@
 # Hey, I'm Nodirbek 👋
 
-I'm an 20-year-old full-stack developer and AI builder based in Gettysburg, PA, United States.
+I'm an 18-year-old full-stack developer and AI builder based in Tashkent, Uzbekistan.
 I build real things — automation tools, AI assistants, and web platforms — and I'm currently
 available for **remote work and freelance projects** in AI and software engineering.
 
@@ -33,16 +33,18 @@ about how to make software that actually does something useful.
 
 ## Projects
 
+### 🔒 [Axiom Messenger](https://github.com/n1dlee/axiom-messenger)
+A privacy-first Telegram desktop client built with **Tauri 2, React 19, and Rust** — full TDLib
+integration under the hood. Features Ghost Mode, Deleted Message Recovery, and a Glassmorphism UI.
+This isn't a tutorial project. It's a real desktop application with real engineering tradeoffs.
+
 ### 🔷 [InsightHub](https://github.com/n1dlee/insighthub)
 A platform I founded and built from scratch in TypeScript. Still actively developing it —
-more details coming soon, but feel free to look at the code.
+feel free to look at the code.
 
-### 🤖 [ARIA Assistant](https://github.com/n1dlee/ARIA-Assistant)
-A Python-based AI assistant project. Built to explore conversational AI and tool integration.
-
-### 📬 [Telegram Auto-Accept Bot](https://github.com/n1dlee/Auto-Accept-User-Request-Bot-for-Telegram)
-A Telegram bot using the `aiogram` framework that automatically accepts group join requests
-and sends welcome messages. Clean, practical, and actively starred by others.
+### 📝 [Blog Portfolio](https://github.com/n1dlee/Blog-Portfolio)
+A full-stack personal blog built with **Node.js + Express + MongoDB + React**. End-to-end —
+from the database schema to the UI. Good reference if you want to see how I structure a MERN app.
 
 ---
 
