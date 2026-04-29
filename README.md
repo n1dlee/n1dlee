@@ -42,9 +42,13 @@ This isn't a tutorial project. It's a real desktop application with real enginee
 A platform I founded and built from scratch in TypeScript. Still actively developing it —
 feel free to look at the code.
 
+Link to a website: [click me!](https://insighthubuz.vercel.app/)
+
 ### 📝 [Blog Portfolio](https://github.com/n1dlee/Blog-Portfolio)
 A full-stack personal blog built with **Node.js + Express + MongoDB + React**. End-to-end —
 from the database schema to the UI. Good reference if you want to see how I structure a MERN app.
+
+Link to a website: [click me!](https://n1dleee.vercel.app/)
 
 ---
 
