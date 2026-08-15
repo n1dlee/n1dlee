@@ -1,12 +1,5 @@
 # Hey, I'm Nodirbek 👋
 
-I'm an 20-year-old full-stack developer and AI builder based in Tashkent, Uzbekistan.
-I build real things — automation tools, AI assistants, and web platforms — and I'm currently
-available for **remote work and freelance projects** in AI and software engineering.
-
-I founded **InsightHub**, write code in Python and Java daily, and spend a lot of time thinking
-about how to make software that actually does something useful.
-
 ---
 
 ## What I'm Good At
